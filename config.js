@@ -6,6 +6,6 @@
 // Jika ingin menjaga kunci tetap rahasia, biarkan kosong dan pakai
 // "Salin Link Setup Perangkat Baru" di Pengaturan > Database.
 window.TOKOGT_CONFIG = {
-  url: '',   // contoh: 'https://script.google.com/macros/s/XXXXXXXX/exec'
-  key: ''    // contoh: 'tokogt-8Kq2xZ7mP4'
+  url: 'https://script.google.com/macros/s/AKfycbxlZUTIXc1xHOVV5P-AMAg7Ll03cHoeqfv7UI8QbsVKpLRMvzqG-L4CkF9XX7jEA_E/exec',   // contoh: 'https://script.google.com/macros/s/XXXXXXXX/exec'
+  key: 'tokogt-123'    // contoh: 'tokogt-8Kq2xZ7mP4'
 };
